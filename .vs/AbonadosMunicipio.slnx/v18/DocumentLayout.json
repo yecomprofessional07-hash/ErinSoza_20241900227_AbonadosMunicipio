@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\controllers\\abonadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\controllers\\abonadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\infraestructura\\repositorios\\tiposserviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\infraestructura\\repositorios\\tiposserviciorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\infraestructura\\repositorios\\abonadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\infraestructura\\repositorios\\abonadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\infraestructura\\database\\abonadosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\infraestructura\\database\\abonadosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\features\\abonado\\interfaces\\idabonadosappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\features\\abonado\\interfaces\\idabonadosappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\features\\abonado\\domainservice\\abonadosdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\features\\abonado\\domainservice\\abonadosdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\features\\abonado\\datos\\abonadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\features\\abonado\\datos\\abonadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\features\\abonado\\appservice\\tiposervicioappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\features\\abonado\\appservice\\tiposervicioappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\features\\abonado\\appservice\\abonadosappserivice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\features\\abonado\\appservice\\abonadosappserivice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\enitities\\tiposservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\enitities\\tiposservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\enitities\\abonados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\enitities\\abonados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\controllers\\tiposervicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\controllers\\tiposervicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\commons\\models\\apireponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\commons\\models\\apireponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\abonadosmunicipio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\abonadosmunicipio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|d:\\yaret\\documents\\poo_clase\\abonadosmunicipio\\abonadosmunicipio\\abonadosmunicipio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8127F990-6130-1E20-842C-7CD0E69AAF2F}|AbonadosMunicipio\\AbonadosMunicipio.csproj|solutionrelative:abonadosmunicipio\\abonadosmunicipio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbonadosDbContext.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\DataBase\\AbonadosDbContext.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Infraestructura\\DataBase\\AbonadosDbContext.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\DataBase\\AbonadosDbContext.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Infraestructura\\DataBase\\AbonadosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:07:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbonadosRepositorio.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\Repositorios\\AbonadosRepositorio.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Infraestructura\\Repositorios\\AbonadosRepositorio.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\Repositorios\\AbonadosRepositorio.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Infraestructura\\Repositorios\\AbonadosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:38:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiposServicioRepositorio.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\Repositorios\\TiposServicioRepositorio.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Infraestructura\\Repositorios\\TiposServicioRepositorio.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Infraestructura\\Repositorios\\TiposServicioRepositorio.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Infraestructura\\Repositorios\\TiposServicioRepositorio.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:45:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbonadosController.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Controllers\\AbonadosController.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Controllers\\AbonadosController.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Controllers\\AbonadosController.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Controllers\\AbonadosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wEEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:53:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdAbonadosAppService.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\Interfaces\\IdAbonadosAppService.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Features\\Abonado\\Interfaces\\IdAbonadosAppService.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\Interfaces\\IdAbonadosAppService.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Features\\Abonado\\Interfaces\\IdAbonadosAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:09:32.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbonadosDomainService.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\DomainService\\AbonadosDomainService.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Features\\Abonado\\DomainService\\AbonadosDomainService.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\DomainService\\AbonadosDomainService.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Features\\Abonado\\DomainService\\AbonadosDomainService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:00:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbonadoDatos.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\Datos\\AbonadoDatos.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Features\\Abonado\\Datos\\AbonadoDatos.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\Datos\\AbonadoDatos.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Features\\Abonado\\Datos\\AbonadoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:07:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoServicioAppService.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\AppService\\TipoServicioAppService.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Features\\Abonado\\AppService\\TipoServicioAppService.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\AppService\\TipoServicioAppService.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Features\\Abonado\\AppService\\TipoServicioAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:46:47.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbonadosAppSerivice.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\AppService\\AbonadosAppSerivice.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Features\\Abonado\\AppService\\AbonadosAppSerivice.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Features\\Abonado\\AppService\\AbonadosAppSerivice.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Features\\Abonado\\AppService\\AbonadosAppSerivice.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T04:20:56.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TiposServicio.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Enitities\\TiposServicio.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Enitities\\TiposServicio.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Enitities\\TiposServicio.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Enitities\\TiposServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:02:03.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Abonados.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Enitities\\Abonados.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Enitities\\Abonados.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Enitities\\Abonados.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Enitities\\Abonados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:56:40.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoServiciosController.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Controllers\\TipoServiciosController.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Controllers\\TipoServiciosController.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Controllers\\TipoServiciosController.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Controllers\\TipoServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:17:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiReponse.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Commons\\Models\\ApiReponse.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Commons\\Models\\ApiReponse.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Commons\\Models\\ApiReponse.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Commons\\Models\\ApiReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T03:58:00.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Program.cs",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\Program.cs",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\Program.cs",
+              "RelativeToolTip": "AbonadosMunicipio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T21:51:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\appsettings.json",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\appsettings.json",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\appsettings.json",
+              "RelativeToolTip": "AbonadosMunicipio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T21:08:03.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AbonadosMunicipio.http",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\AbonadosMunicipio.http",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\AbonadosMunicipio.http",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\AbonadosMunicipio.http",
+              "RelativeToolTip": "AbonadosMunicipio\\AbonadosMunicipio.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-17T02:16:16.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AbonadosMunicipio.csproj",
+              "DocumentMoniker": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\AbonadosMunicipio.csproj",
+              "RelativeDocumentMoniker": "AbonadosMunicipio\\AbonadosMunicipio.csproj",
+              "ToolTip": "D:\\yaret\\Documents\\POO_clase\\AbonadosMunicipio\\AbonadosMunicipio\\AbonadosMunicipio.csproj",
+              "RelativeToolTip": "AbonadosMunicipio\\AbonadosMunicipio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T02:51:03.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
